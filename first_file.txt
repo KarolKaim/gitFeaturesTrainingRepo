@@ -1,3 +1,2 @@
 First file in the new repocd gitFeaturesTrainingRepo/
-some changes in master branch
-another changes in mater
+Changes in first file on newBranch
